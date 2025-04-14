@@ -36,6 +36,22 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "eba4f60f-956c-4a2c-9782-962da8688ddf"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/eba4f60f-956c-4a2c-9782-962da8688ddf",
+      "enabled": true,
+      "fallbackToCacheTimeout": 3000
     }
   }
 }
